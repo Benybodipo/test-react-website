@@ -1,0 +1,16 @@
+footer
+{
+    background: #054175;
+    padding: 100px;
+    color: #ffffff;
+}
+
+footer p
+{
+    max-width: 570px;
+}
+
+footer h4
+{
+    font-weight: normal;
+}

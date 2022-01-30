@@ -1,0 +1,61 @@
+nav
+{
+    box-shadow: 0 3px 3px rgba(0,0,0,0.1607843137254902 );
+}
+
+.navbar-brand img
+{
+    height: 31px;
+    width: auto;
+    position: relative;
+    top: -4px;
+}
+
+.nav-link
+{
+    color: #333333;
+}
+
+.navbar
+{
+    background: #ffff;
+}
+
+.search-container
+{
+    display: inline-block;
+    border: 1px solid #f3f3f3;
+    will-change: 270px;
+    padding: 1px 15px;
+    border-radius: 18px;
+}
+
+.search-container input
+{
+    width: 85%;
+    display: inline-block;
+    padding: 5px 0;
+    border: none;
+}
+
+.search-container img
+{
+    width: 10%;
+}
+
+.login-btn
+{
+    color: #fff !important;
+    background: #0a86f4 !important;
+    font-size: 14px;
+    padding: 5px 15px !important;
+    margin-left: 5px;
+}
+
+.login-btn img
+{
+    margin-right: 10px;
+    position: relative;
+    top: -3px;
+    width: 13px;
+}

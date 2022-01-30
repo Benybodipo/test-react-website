@@ -1,0 +1,93 @@
+section h1,
+section h2,
+section h3,
+section h4,
+section h5
+{
+    color: #054175;
+}
+
+#new-construction-section
+{
+    background: #EEF6FE;
+    padding-bottom: 25px;
+}
+
+#new-construction-section .container
+{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#new-construction-section .container h2
+{
+    font-size: 28px;
+}
+
+#new-construction-section .col-text
+{
+    padding-top: 100px;
+}
+
+#new-construction-section .col-img
+{
+    position: relative;
+    top: 155px;
+}
+
+#new-construction-section .col-img img
+{
+    width: 107%;
+    height: auto;
+    border-radius: 7px;
+}
+
+#new-construction-section span
+{
+    color: #444444;
+    font-weight: bold;
+}
+
+#new-construction-section h2
+{
+    color: #054175;
+}
+
+#new-construction-section p
+{
+    color: #054175;
+    max-width: 421px;
+}
+
+#new-construction-section a
+{
+    color: #0a86f4;
+    text-decoration: none;
+}
+
+
+#actual-section
+{
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#actual-section h2
+{
+    font-size: 28px;
+}
+
+.btn-container
+{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.custom-btn {
+    color: #0a86f4;
+    border: 1px solid #0a86f4;
+    background: #fff;
+    padding: 12px 46px;
+    border-radius: 26px;
+}
