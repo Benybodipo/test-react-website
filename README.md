@@ -1,8 +1,18 @@
 # Test - Databalk
+### Overall
+- I installed Node Js (to fet npm), and VS code to code
+- Ater installing node I created the app by running ``` npx create-react-app foder_name ```
+- For the resources I used 'psdetch'(since my laptop could not install XD due to the space and the graphics) to get the images, colors and fonts as well as the approximate measures and paddings
+- I created modules (navbar, card items and hero section)
+- For the grid I used Bootstrap 5, which helped with speeding the development process
+- Afterwards I created the custom styles based on the modules 
 
+To run the program, just type on the terminal ``` npm start ``` and access the page on 
+```
+http://localhost:3000/
+http://127.0.0.1:3000/
 
-### Model
-![Design](/public/images/design.jpg)
+```
 
 ### Tools
 - To access the XD file I used [PSD ETCH](https://www.psdetch.com/ "PSD ETCH") (my laptop could not support XD)
