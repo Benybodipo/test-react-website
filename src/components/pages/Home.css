@@ -90,4 +90,27 @@ section h5
     background: #fff;
     padding: 12px 46px;
     border-radius: 26px;
+    transition: all .3s ease-in-out;
 }
+
+.btn-container .custom-btn
+{
+    font-size: 15px;
+    padding: 5px 15px;
+}
+
+.btn-container .custom-btn:hover
+{
+    color: #fff;
+    background: #0a86f4;
+    font-weight: bold;
+}
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+.row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+  }

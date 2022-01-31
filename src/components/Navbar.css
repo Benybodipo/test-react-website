@@ -14,8 +14,13 @@ nav
 .nav-link
 {
     color: #333333;
+    transition: all .3s ease-in;
 }
 
+.nav-link:hover
+{
+    color: #0a86f4;
+}
 .navbar
 {
     background: #ffff;

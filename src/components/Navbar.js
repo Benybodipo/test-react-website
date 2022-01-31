@@ -5,7 +5,7 @@ import './Navbar.css';
 function Navbar()
 {
     return (
-        <nav className="navbar navbar-expand-lg">
+        <nav className="navbar fixed-top navbar-expand-lg">
             <div className="container">
                 <Link className="navbar-brand" to="#">
                     <img src={'/images/logo.png'} />
@@ -30,7 +30,7 @@ function Navbar()
                     </ul>
                     <form className="d-flex">
                         <div className='search-container'>
-                            <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+                            <input className="form-control me-2" type="search" placeholder="Wat zoekt u..." aria-label="Search"/>
                             <img src={'/images/search-icon.png'} />
                         </div>
                         <button className="custom-btn login-btn" type="submit">

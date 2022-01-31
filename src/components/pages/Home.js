@@ -35,7 +35,7 @@ function Home() {
             </section>
             <section id='actual-section'>
                 <div className='container'>
-                    <div className='row'>
+                    <div className='row display-flex'>
                         <h2 className='mb-4'>Actueel</h2>
                         <div className='col-sm-4'>
                             <CardItem
@@ -43,7 +43,7 @@ function Home() {
                                 card_img_alt=''
                                 date='03-02-2021'
                                 card_title='Bouw 55 sociale huurappartementen gestart'
-                                card_text='Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. '
+                                card_text='Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, lectus'
                                 link_href='/'
                             />
                         </div>
@@ -53,7 +53,7 @@ function Home() {
                                 card_img_alt=''
                                 date='15-02-2021'
                                 card_title='Cultuurhistorische eisen belemmeren nieuwbouw'
-                                card_text='Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. '
+                                card_text='Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis'
                                 link_href='/'
                             />
                         </div>
@@ -63,7 +63,7 @@ function Home() {
                                 card_img_alt=''
                                 date='20-02-2021'
                                 card_title='Bewonersbijeenkomst op donderdag 9 maart'
-                                card_text='Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. '
+                                card_text='Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio'
                                 link_href='/'
                             />
                         </div>

@@ -3,6 +3,7 @@
     background-image: url('../../public/images/hero.png');
     background-size: cover;
     background-position: center center;
+    background-attachment: fixed;
 }
 
 #hero .container
@@ -13,15 +14,20 @@
 
 #hero h1{
     color: #fff;
+    position: relative;
+    top: 68px;
+    font-size: 46px;
 }
 
 .services-block
 {
     display: block;
     position: absolute;
-    bottom: -100px;
+    bottom: -78px;
     width: 100%;
+    font-family: 'Roboto Slab', serif !important;;
 }
+
 
 .services-list
 {
@@ -73,5 +79,6 @@
     display: block;
     font-size: 14px;
     margin-top: 15px;
+    font-family: 'Roboto Slab', serif;
 }
 

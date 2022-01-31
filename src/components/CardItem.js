@@ -9,7 +9,9 @@ function CardItem(props) {
   return (
     <>
       <div className='card' style={card_style}>
-          <img src={props.card_img_src} className='card-img-top' alt={props.card_img_alt}/>
+          <div className="card-img-container">
+            <img src={props.card_img_src} className='card-img-top' alt={props.card_img_alt}/>
+          </div>
           <div className='card-body'>
               <span className="card-date">{props.date}</span>
               <h5 className='card-title'>
